@@ -1,13 +1,12 @@
-# dojo-horse-ebooks
+# Random word generator
 
-A Clojure library designed to ... well, that part is up to you.
+This is Team One's work from the London Clojure Dojo, 30th July 2013.
 
 ## Usage
 
-FIXME
+Git clone the repo and run `lein run`. Browse to http://localhost:8912
+and embrace the profoundness.
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the Eclipse Public License, the same as Clojure. For all that matters.
